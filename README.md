@@ -16,7 +16,7 @@ The project followed a structured pipeline involving several stages to ensure a 
 **3.Model Evaluation**: The models were evaluated based on accuracy and loss metrics using the final test set. Performance comparisons were made to determine the best-performing architecture.
 
 **4.Deployment:** The final selected model was deployed as a Streamlit web application for real-time inference. Users can upload fish images, and the application predicts the species with confidence scores.
---
+
 
 # **3. Model Performance on Test Set**
    
@@ -42,9 +42,12 @@ The project successfully demonstrated how transfer learning can be effectively u
 
 The developed Streamlit application allows end users to classify fish images instantly, enhancing automation possibilities in the fisheries and marine industries.
 
-📈 Business / Research Impact
-Domain	Practical Application
+📈 Business / Research Impact Domain Practical Application
+
 🌊 Marine Research	Automated fish species identification for biodiversity studies
+
 🧾 Seafood Industry	Sorting and quality control in seafood processing lines
+
 📱 Edge AI Systems	Deploy lightweight models like MobileNet for mobile or embedded cameras
+
 💡 Scalable AI Framework	Reusable template for future datasets (e.g., fruits, plants, or medical images)
