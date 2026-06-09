@@ -21,11 +21,11 @@ The project followed a structured pipeline involving several stages to ensure a 
 # **3. Model Performance on Test Set**
    
 Model Name	Test Accuracy	Test Loss
-MobileNetV2	0.9820	0.0674
-ResNet50	0.2595	2.0710
-InceptionV3	0.9732	0.0957
-EfficientNetB0	0.1641	2.3045
-VGG16	0.7772	0.9956
+MobileNetV2  	0.9820	      0.0674
+ResNet50	      0.2595	      2.0710
+InceptionV3	   0.9732	      0.0957
+EfficientNetB0	0.1641	      2.3045
+VGG16	         0.7772	      0.9956
 
 # **4. Analysis and Discussion**
    
